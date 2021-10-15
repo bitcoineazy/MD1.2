@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MD1.2_Calculator</string>
+    <string name="click_me">Нажми на меня</string>
+    <string name="calc">Калькулятор</string>
+    <string name="reset">C</string>
 </resources>
